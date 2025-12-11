@@ -67,7 +67,7 @@ dart-sales-analytics-dashboard/
 ├── data/
 │   └── dart_sales_data.csv             # Sales transactions (2014-2018)
 │
-├── dashboards/
+├── visualizations/
 │   └── *.png                           # Exported dashboard images
 │
 └── README.md                           # Project documentation
